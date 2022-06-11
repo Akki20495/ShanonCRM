@@ -8,12 +8,12 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.Reporter;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
-
+//Push without pull
 public class BaseTest implements IAutoConsts{
 
 	//Hello I am in Git are you able to see me in Github???
 	
-	yaya im able to see you are you able to see me????
+//	yaya im able to see you are you able to see me????
 	public static WebDriver driver;
 	
 	@BeforeClass
