@@ -11,9 +11,7 @@ import org.testng.annotations.BeforeClass;
 
 public class BaseTest implements IAutoConsts{
 
-	//Hello I am in Git are you able to see me in Github???
 	
-	yaya im able to see you are you able to see me????
 	public static WebDriver driver;
 	
 	@BeforeClass
