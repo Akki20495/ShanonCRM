@@ -12,6 +12,8 @@ public class BaseTest implements IAutoConsts{
 	
 	public static WebDriver driver;
 	
+	//Hello
+	
 	@BeforeClass
 	public void openBrowser() throws Throwable
 	{
